@@ -2,7 +2,7 @@
 A Sorting Algorithm is used to rearrange a given array or list elements according to a comparison operator on the elements.
 The comparison operator is used to decide the new order of element in the respective data structure.
 
- ## comparision between sorting tech
+ ## Comparision Between Sorting-Techniques
  <p align="center">
    <img src="http://www-scf.usc.edu/~zhan468/public/Notes/resources/5F2F2130A480467D3A92AFA78F128E06.png">
   </p>
