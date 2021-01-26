@@ -63,4 +63,10 @@ Values from the unsorted part are picked and placed at the correct position in t
   <img src="http://www-scf.usc.edu/~zhan468/public/Notes/resources/7073C729230E1A2C3C3C9207B25F6B43.gif">
   </p>
  # How to run 
- 1 run 
+ 1 Run newmain.java 
+ 2 enter if you want to show the execution time of sorting 1000 element or sort a specific array
+ 3 if select 2, you should enter  your specific array
+ 
+ 
+ 
+ Thank you ! 
